@@ -3,11 +3,15 @@ Abhinaba Basu (অভিনব বসু)
 
 **💻Current: Principal Engineering Manager and Product Lead at Microsoft**
 
-I lead the team of engineers, operations and SRE building Azure Bare Metal Cloud running in-memory databases. 
-Some of our recent work include
-1. [Bare Metal Compute in Azure](https://blog.bonggeek.com/2020/04/managing-baremetal-blades-in-azure.html)
-2. [Database Infrastructure Monitoring](https://blog.bonggeek.com/2020/06/building-azure-monitor-for-sap-solutions.html)
-3. [OSS Deployment Tools](https://github.com/azure/sap-hana)
+I lead a team of engineering leaders and engineers building Azure Bare Metal Cloud running various workloads 
+in the [Azure Dedicated](https://blog.bonggeek.com/2019/09/azure-dedicated_96.html) organization
+1. In memory database workloads (e.g. SAP HANA) running on baremetal with upto 24 TB RAM
+   - [Bare Metal Compute in Azure](https://blog.bonggeek.com/2020/04/managing-baremetal-blades-in-azure.html)
+   - [Database Infrastructure Monitoring](https://blog.bonggeek.com/2020/06/building-azure-monitor-for-sap-solutions.html)
+   - [OSS Deployment Tools](https://github.com/azure/sap-hana)
+2. [Azure VMWare Solution](https://azure.microsoft.com/en-us/services/azure-vmware)
+3. Nutanix on Azure
+4. New workloads
 
 **🔭Past**
 
@@ -24,7 +28,7 @@ I dabble in various things
 
 **📜Origin**
 
-I was born in Kolkata, India where I also completed my schooling. I did B.S. with Physics major and then followed it with B.Tech in Computer Science and Engineering. I started my career in tech with Texas Instruments, then worked in Adobe in India. I then joined Microsoft in India and moved to US in 2010 and continue to work with Microsoft.
+I was born in Kolkata, India where I also completed my schooling. I did B.S. with Physics major and then followed it with B.Tech in Computer Science and Engineering. I started my career in tech with Texas Instruments, then worked in Adobe India. I then joined Microsoft in India and moved to US in 2010 and continue to work with Microsoft.
 
 <!--
 Here are some ideas to get you started:
