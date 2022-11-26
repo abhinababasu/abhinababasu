@@ -1,7 +1,7 @@
 Abhinaba Basu (অভিনব বসু)
 ========================
 
-**💻Current: Principal Engineering Manager and Product Lead at Microsoft**
+**💻Current: Partner Group Engineering Manager**
 
 I lead a team of engineering leaders and engineers building Azure Bare Metal Cloud running various workloads 
 in the [Azure Dedicated](https://blog.bonggeek.com/2019/09/azure-dedicated_96.html) organization
